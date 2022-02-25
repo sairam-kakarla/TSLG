@@ -1,0 +1,1 @@
+class="lyric-text margint20 marginb20">

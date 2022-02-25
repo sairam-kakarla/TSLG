@@ -1,0 +1,3 @@
+class="lyric-text margint20 marginb20">
+<div class="article-content entry-content">
+<div dir="ltr">adire…adire</div></div></div

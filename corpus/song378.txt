@@ -1,0 +1,19 @@
+class="lyric-text margint20 marginb20">
+<p><span style="font-family: Trebuchet MS">prakruti kaantaku ennenni hoyalo
+
+</span><span style="font-family: 'Trebuchet MS',sans-serif">padamu kadipithe ennenni layalo
+
+prakruti kaantaku ennenni hoyalo</span>
+
+<span style="font-family: 'Trebuchet MS',sans-serif">padamu kadipithe ennenni layalo
+
+ennenni hoyalo ennenni layalo
+
+ennenni hoyalo ennenni layalo
+
+sirivennela nindina edapai siri muvvala savvadi neevai</span>
+
+<span style="font-family: 'Trebuchet MS',sans-serif">nartinchaga raavelaa
+
+ninu ne keertinche vela</span></p>
+<p>prakruti kaantaku ennenni hoyalo</p></div
