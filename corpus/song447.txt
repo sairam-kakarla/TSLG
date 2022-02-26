@@ -1,2 +1,0 @@
-class="lyric-text margint20 marginb20">
-<div class="post-body entry-content" id="post-body-4240291912219705627">

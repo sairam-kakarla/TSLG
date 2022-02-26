@@ -1,2 +1,0 @@
-class="lyric-text margint20 marginb20">
-<div dir="ltr">

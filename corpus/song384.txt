@@ -1,6 +1,0 @@
-</div>
-</ul>
-<ul class="related-list">
-</ul>
-<!-- genre -->
-</div
