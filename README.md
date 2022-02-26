@@ -6,7 +6,7 @@ The corpus of songs are collected from [lyrics hosting platform](https://telugul
 ## Corpus Details
 | Parameter | Measure |
 | --- | --- |
-| songs count | 459 |
+| songs count | 369 |
 
 ## Module
 - `song_scrapper.py` for scrapping individual songs.
