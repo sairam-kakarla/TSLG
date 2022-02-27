@@ -7,6 +7,10 @@ The corpus of songs are collected from [lyrics hosting platform](https://telugul
 | Parameter | Measure |
 | --- | --- |
 | songs count | 369 |
+|Words count|47993|
+|Avg word per song|130|
+|Avg Char per word|6|
+|Unique Words|19077|
 
 ## Module
 - `song_scrapper.py` for scrapping individual songs.
